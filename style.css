@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  #todo-container {
+    margin-top: 20px;
+  }
+  
+  #task-input {
+    width: 250px;
+    padding: 5px;
+  }
+  
+  #add-button {
+    padding: 5px 10px;
+    margin-left: 10px;
+  }
+  
+  #task-list {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  .delete-button {
+    background-color: #f44336;
+    color: white;
+    padding: 5px 10px;
+    margin-left: 10px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
