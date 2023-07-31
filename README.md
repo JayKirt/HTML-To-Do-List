@@ -4,5 +4,5 @@
 <ul>
   <li>Improve CSS</li>
   <li> Add day by day functionality</li>
-  <li> Allow user to re-order list </li>
+  <li>Allow user to re-order list</li>
 </ul>
